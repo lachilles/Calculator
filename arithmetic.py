@@ -24,7 +24,7 @@ def cube(num1):
 
 def power(num1, num2):
     
-    return int(num1) ** int(num2)
+    return pow(int(num1), int(num2))
 
 def mod(num1, num2):
     

@@ -1,6 +1,6 @@
 def add(num1, num2):
     """ Adds num1 to num2 """
-    return int(num1 + num2)
+    return int(num1) + int(num2)
     
 def subtract(num1, num2):
     """ Subtracts num1 to num2 """    
